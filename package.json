@@ -1,0 +1,16 @@
+{
+  "name": "exam1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mecha"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mecha": "0.0.0",
+    "mongoose": "^5.8.6"
+  }
+}
